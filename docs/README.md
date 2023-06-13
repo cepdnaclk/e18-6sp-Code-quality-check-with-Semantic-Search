@@ -35,7 +35,7 @@
 
 ### High level system diagram
 <div class="figure container">
-<img class="mx-auto d-block" src="./images/highlevel.png" alt="Sample Image" width="320"/>
+<img class="mx-auto d-block" src="./images/highlevel.png" alt="Sample Image"/>
 <p class="caption text-center"></p>
 </div>
 
