@@ -4,7 +4,7 @@
 
 ---
 
-![Sample Image](./images/sample.png)
+![Sample Image](./images/1.png)
 
 
 # Team
