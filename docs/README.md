@@ -27,7 +27,13 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 ## Other Sub Topics
 
-.....
+### How does this solve the problem at hand?
+
+- Automated Code Analysis
+- Semantic analysis
+- Different programming languages
+- Processing of large code base
+- Code suggestions based on semantic search
 
 ## Links
 
