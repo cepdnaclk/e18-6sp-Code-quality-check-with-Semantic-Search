@@ -23,7 +23,7 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 ## Introduction
 
- description of the real world problem and solution, impact
+ Code checking is essential to ensure collaboration, reliability, maintenance, readability, and extendability of code. However, manual code review is time-consuming, subjective, and prone to errors. To address these challenges, a proposed solution is to develop a deep neural network utilizing semantic analysis for code quality evaluation. This approach aims to provide a language-independent and contextually understanding system that can classify code as good or bad, ensuring consistency, readability, maintainability, and overall quality.
 
 ## Other Sub Topics
 
