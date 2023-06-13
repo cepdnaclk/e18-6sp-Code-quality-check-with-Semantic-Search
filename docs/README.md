@@ -33,6 +33,13 @@
 - Processing of large code base
 - Code suggestions based on semantic search
 
+### High level system diagram
+<div class="figure container">
+<img class="mx-auto d-block" src="./images/highlevel.png" alt="Sample Image" width="320"/>
+<p class="caption text-center"></p>
+</div>
+
+
 # Links
 
 - [Project Repository](https://github.com/cepdnaclk/{{ page.repository-name }}){:target="_blank"}
