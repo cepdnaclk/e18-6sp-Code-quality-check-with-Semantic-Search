@@ -23,8 +23,6 @@
 
  Code checking is essential to ensure collaboration, reliability, maintenance, readability, and extendability of code. However, manual code review is time-consuming, subjective, and prone to errors. To address these challenges, a proposed solution is to develop a deep neural network utilizing semantic analysis for code quality evaluation. This approach aims to provide a language-independent and contextually understanding system that can classify code as good or bad, ensuring consistency, readability, maintainability, and overall quality.
 
-# Other Sub Topics
-
 ### How does this solve the problem at hand?
 
 - Automated Code Analysis
@@ -39,6 +37,23 @@
 <p class="caption text-center"></p>
 </div>
 
+# Development
+
+## Gathering Data
+We have gathered a diverse dataset of over 2000 sample code snippets from various sources. This dataset serves as the foundation for our code quality checker.
+
+## Labeling
+We meticulously labeled each code snippet using `pylint` to assess their quality based on the following criteria:
+- Convention
+- Error
+- Code Duplication
+- Complexity
+- Code Design
+
+## Model Training
+For the model, we leveraged BERT (Bidirectional Encoder Representations from Transformers) to train our code quality checker. BERT is a powerful language model that enables us to perform semantic search and evaluate code quality effectively.
+
+Our trained model can now analyze code snippets and determine whether they are good or bad based on the criteria mentioned above.
 
 # Links
 
